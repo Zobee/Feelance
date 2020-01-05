@@ -6,14 +6,6 @@
   box-shadow: 3px 1px 1px 3px black;
 }
 
-h1{
-  font-size: 15vw;
-}
-
-h4{
-  font-size: 15vw;
-}
-
 p{
   font-size: min(max(3vw),25px);
 }
