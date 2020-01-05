@@ -9,9 +9,9 @@ const Home = () => {
             <Card bg='dark' style={{height: '10%', marginBottom : '1em'}}>
                 <Card.Img className='img img-fluid img-responsive' style={{height : '65vh'}} src='write.jpg' alt=''></Card.Img>
                 <Card.ImgOverlay>
-                    <Card.Title><h1>Hey! I'm Zoheb</h1></Card.Title>
-                    <Card.Subtitle><h4>I put dreams to paper</h4></Card.Subtitle>
-                    <Card.Text style={{width:'50%', marginTop: '1em', fontSize:'1vw', wordWrap: 'break-word', textIndent: '0.5em'}}>
+                    <Card.Title><h1 style={{fontSize : '2.2em'}}>Hey! I'm Zoheb</h1></Card.Title>
+                    <Card.Subtitle><h4 style={{fontSize : '1.8em'}}>I put dreams to paper</h4></Card.Subtitle>
+                    <Card.Text style={{width:'50%', marginTop: '1em', fontSize:'2vw', wordWrap: 'break-word', textIndent: '0.5em'}}>
                     'On paper' is a phrase commonly used to denigrate an idea which seems great in theory,
                     but doesn't quite hold up to scrutiny in practice. My mission is to prove just how antiquated
                     that thought process is. Whether your needs are technical, creative, or copywriting-based, 

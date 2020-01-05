@@ -57,7 +57,7 @@ const Contact = () => {
             </form>
             </Card>
 
-            <p className='my-3 text-center'>You can also email me directly at <a href='mailto:zohebboga@gmail.com'>zohebboga@gmail.com</a></p>
+            <p style={{fontSize : '2em'}}className='my-3 text-center'>You can also email me directly at <a href='mailto:zohebboga@gmail.com'>zohebboga@gmail.com</a></p>
 
         </div>
 
