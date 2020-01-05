@@ -17,7 +17,7 @@ const Samples = () => {
             <Accordion defaultActiveKey="0">
             <Card className='writing-sample' bg='secondary' text='white'>
                 <Accordion.Toggle style={{textAlign: 'center', fontSize : '1.7em'}} as={Card.Header} eventKey="1">
-                A Meaning of Our Own : Man’s Search for Meaning - Viktor Frankl
+                A Meaning of Our Own: Man’s Search for Meaning - Viktor Frankl
                 </Accordion.Toggle>
                 <Accordion.Collapse eventKey="1">
                 <Card.Body style={{textIndent: '0.5em', fontSize : '1.5em'}}>
@@ -32,7 +32,7 @@ const Samples = () => {
             </Card>
             <Card className='writing-sample' bg='light' text='black'>
                 <Accordion.Toggle style={{textAlign: 'center', fontSize : '1.7em'}} as={Card.Header} eventKey="2">
-                To Believe. Or Not to Believe : A Brief Overview of Pascal's Wager
+                To Believe. Or Not to Believe: A Brief Overview of Pascal's Wager
                 </Accordion.Toggle>
                 <Accordion.Collapse eventKey="2">
                 <Card.Body style={{textIndent: '0.5em', fontSize : '1.5em'}}>
@@ -61,7 +61,7 @@ const Samples = () => {
             <Accordion defaultActiveKey="0">
             <Card className='writing-sample' bg='secondary' text='white'>
                 <Accordion.Toggle style={{textAlign: 'center', fontSize : '1.7em'}} as={Card.Header} eventKey="1">
-                Shi'ite Luck : A View of the Cultural and Religious Misrepresentation of Isma’ilism
+                Shi'ite Luck: A View of the Cultural and Religious Misrepresentation of Isma’ilism
                 </Accordion.Toggle>
                 <Accordion.Collapse eventKey="1">
                 <Card.Body style={{textIndent: '0.5em', fontSize : '1.5em'}}>
@@ -79,7 +79,7 @@ const Samples = () => {
             </Card>
             <Card className='writing-sample' bg='light' text='black'>
                 <Accordion.Toggle style={{textAlign: 'center', fontSize : '1.7em'}} as={Card.Header} eventKey="2">
-                Inside Job : Combatting Insider Trading
+                Inside Job: Combatting Insider Trading
                 </Accordion.Toggle>
                 <Accordion.Collapse eventKey="2">
                 <Card.Body style={{textIndent: '0.5em', fontSize : '1.5em'}}>
