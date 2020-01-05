@@ -22,14 +22,14 @@ const Home = () => {
         </div>
         <div className='container-fluid'>
 
-            <p className='mt-4 mb-1 text-center'>
+            <p style={{fontSize : '2.5em'}} className='mt-4 mb-1 text-center'>
                 Check out some of my work! 
                 <br/>
                 <br/>
                 <Link className='text-white' to='samples'><div className='btn btn-dark'>Writing Samples</div></Link>
             </p>
 
-            <p className='mt-4 mb-1 text-center'>
+            <p style={{fontSize : '2.5em'}} className='mt-4 mb-1 text-center'>
                 I'd love to hear from you. 
                 <br/>
                 <br/>
