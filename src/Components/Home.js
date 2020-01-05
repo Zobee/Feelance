@@ -25,13 +25,11 @@ const Home = () => {
             <p style={{fontSize : '2.5em'}} className='mt-4 mb-1 text-center'>
                 Check out some of my work! 
                 <br/>
-                <br/>
                 <Link className='text-white' to='samples'><div className='btn btn-dark'>Writing Samples</div></Link>
             </p>
 
             <p style={{fontSize : '2.5em'}} className='mt-4 mb-1 text-center'>
                 I'd love to hear from you. 
-                <br/>
                 <br/>
                 <Link to='contact'><div className='btn btn-dark'>Get in touch!</div></Link>
             </p>    
